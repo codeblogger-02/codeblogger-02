@@ -11,7 +11,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/Mahendr22536066?s=09" target="blank"><img align="left"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="codeblogger-02" width="22px" /></a>
+<a href="https://twitter.com/Mahendr22536066?s=09" target="blank"><img align="left"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codeblogger-02" width="22px" /></a>
 <a href=" https://www.linkedin.com/in/mahendra-nimsatkar-a863031b5/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="codeblogger-02" width="22px" /></a>
 <a href="https://www.instagram.com/3da.rtist/"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="codeblogger-02" width="22px"/></a>
 </p>
